@@ -262,8 +262,8 @@ traitera les requêtes comme cela :
 Chemin | Fichier
 --- | ---
 `/` | `index.vue`
-`/personne` | `personne/index.vue`
-`/personne/123` | `personne/_id.vue`
+`/people` | `people/index.vue`
+`/people/123` | `people/_id.vue`
 `/apropos` | `_.vue`
 `/apropos/carriere` | `_.vue`
 `/apropos/carriere/paris` | `_.vue`
